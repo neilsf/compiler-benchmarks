@@ -1,5 +1,5 @@
 0 rem bubble sort algorithm
-1 rem sorts 50 integers between 0 and 155
+1 rem sorts 50 integers between 0 and 255
 2 rem 24,065,419 cycles
 5 dim n(50):for i = 1 to 50:read n(i):next
 10 poke 255,0 : rem benchmark start
