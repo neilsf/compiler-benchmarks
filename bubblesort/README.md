@@ -18,7 +18,7 @@ Use this input:
 80, 178, 181, 68, 8, 5, 47, 31, 94, 224
 ```
 
-## Algoritm
+## Algorithm
 
 ```
 Initialize I
