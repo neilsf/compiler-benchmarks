@@ -1,5 +1,5 @@
 ' Bubble sort algorithm
-' Sorts 50 integers between 0 and 155
+' Sorts 50 integers between 0 and 255
 ' 165,838 cycles
 
 CONST TRUE = 255
