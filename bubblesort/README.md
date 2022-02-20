@@ -31,7 +31,7 @@ Start outer loop
       Set SWAPPED to true
   Continue inner loop while J <= (last num index) - I
   If SWAPPED = false Then Exit program
-Continue outer loop while I <= (last num index)
+Continue outer loop while I < (last num index)
 ```
 
 ## Results
