@@ -29,9 +29,9 @@ Start outer loop
     If nums[J] > nums[J + 1] Then
       Swap nums[J] and nums[J + 1]
       Set SWAPPED to true
-  Continue inner loop while J < (last num index) - I
+  Continue inner loop while J <= (last num index) - I
   If SWAPPED = false Then Exit program
-Continue outer loop while I < (last num index)
+Continue outer loop while I <= (last num index)
 ```
 
 ## Results
