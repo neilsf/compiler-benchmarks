@@ -1,7 +1,7 @@
 # compiler-benchmarks
-Benchmarks to test how XC=BASIC and other compilers to each other.
+Benchmarks to test how XC=BASIC and other compilers compare to one another.
 ## Disclaimer
-This is a community project, might be full of mistakes, inefficient algorithms, etc. Make it better. Fork it, add your own code and send a PR.
+This is a community project, strictly for fun, it might be full of mistakes, inefficient algorithms, etc. Make it better. Fork it, add your own code and send a PR.
 ## Rules
 In each directory you'll find an algorithm written in pseudo-code.
 
